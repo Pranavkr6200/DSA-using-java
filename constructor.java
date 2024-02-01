@@ -6,7 +6,7 @@
 
      public A() {
          x = 1;
-         name = " I love shukla";
+         name = " I love food";
      }
 
      void display() {
