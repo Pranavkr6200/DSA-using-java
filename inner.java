@@ -1,7 +1,7 @@
 class outer{
     static class inner{
         public void show(){
-            System.out.println("i love you shukla");
+            System.out.println("i an radhe");
         }
     }
 }
